@@ -362,5 +362,3 @@ Spark Structured Streaming
 Snowflake
 ```
 ```
-
-**One small correction:** I intentionally left the producer/consumer test as **not completed** unless you actually ran the manual console producer/consumer test. That keeps the GitHub README factually accurate.
